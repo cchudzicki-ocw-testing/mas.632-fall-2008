@@ -9,8 +9,8 @@ file_type: image/jpeg
 image_metadata:
   caption: In speech recognition, different sequences of words could match an utterance;
     each sequence implies different word boundaries in the input utterance. See chapter
-    7 in the [course text](pages/readings) for more details on this example. (Image
-    by Christopher Schmandt.)
+    7 in the [course text](/courses/mas-632-conversational-computer-systems-fall-2008/pages/readings)
+    for more details on this example. (Image by Christopher Schmandt.)
   credit: ''
   image-alt: Diagram comparing the word boundary relationships among the similar utterances
     'hurtful tanks,' 'heartfelt thanks,' 'her felt hankies,' and 'he artfully banks.'
